@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Hi%2C%20I'm%20Vani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20DSA%20%26%20Problem%20Solving%20Enthusiast&descSize=16&descAlignY=60" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Hi%2C%20I%27m%20Vani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20DSA%20%26%20Problem%20Solving%20Enthusiast&descSize=16&descAlignY=60" alt="Header" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=620&height=36&lines=CS+Undergrad+%7C+Problem+Solver;Actively+learning+Data+Structures+%26+Algorithms;Practicing+DSA+problems+daily+%F0%9F%A7%A0;Open+to+SDE+internships+%26+opportunities+%F0%9F%9A%80" alt="Typing intro" />
@@ -58,7 +58,7 @@ I'm a Computer Science student passionate about solving complex problems and bui
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vanibhardwaj05&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vanibhardwaj05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanibhardwaj05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 <div align="center" style="margin-top: 10px;">
